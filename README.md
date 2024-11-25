@@ -2,8 +2,8 @@
 - 👀 I’m interested in Machine Learning，Medical Image Analysis and medical robotics.
 - 🌱 I’m currently learning Machine Learning and AI 3D generator. I am major in Financial Engineering.
 - 💞️ I’m looking to collaborate on Machine Learning，Medical Image Analysis and medical robotics.
-- 📫 How to reach me : Please contact me in email 121090833@link.cuhk.edu.cn
-- ⚡ Fun fact: ...
+- 📫 How to reach me : Please contact me in email 121090833@link.cuhk.edu.cn or keruzheng@link.cuhk.edu.cn
+- ⚡ Fun fact: I am a band manager and bass player~
 
 <!---
 KeruZheng/KeruZheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
